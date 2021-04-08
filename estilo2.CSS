@@ -1,0 +1,44 @@
+h1{
+
+
+    font-size: 30px;
+    color:black;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+h2{
+    font-size: 25px;
+    color:black;
+    font-weight: bold;
+    text-align: center;
+
+
+}
+
+p{font-size: 20px;
+    color:black;
+    Font-weight: italic;
+
+}
+
+
+
+.parrafo{
+
+    font-size: 20px;
+    color:#f00404;
+    Font-weight: italic;
+}
+   
+
+footer{
+    font-size: 18px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+ 
